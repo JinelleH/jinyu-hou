@@ -1,2 +1,2 @@
-# jh-website
+# jinyu-hou
 My personal website!
